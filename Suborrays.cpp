@@ -28,6 +28,6 @@ int main(){
     }
    
 }
-//TC: O()
-//SC: O()
+//TC: O(N)
+//SC: O(1)
  
