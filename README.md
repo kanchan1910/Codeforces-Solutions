@@ -1,2 +1,2 @@
 # Codeforces-Solutions
-Solutions for Codeforces problems(commented with explainations).
+Solutions for Codeforces problems(commented with explanations).
