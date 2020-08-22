@@ -18,7 +18,7 @@
 #define pi 3.141592653589793238
 #define u_b upper_bound
 #define l_b lower_bound
-#define gcd(a,b) __gcd((a),(b))
+#define gcd(a,b) __gcd(a,b)
 #define lcm(a,b) (a*b/__gcd(a,b))
 #define set_bits(x) __builtin_popcountll(x)
 #define m_p make_pair
