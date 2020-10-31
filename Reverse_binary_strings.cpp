@@ -14,30 +14,21 @@
 #define maxi max_element
 #define mini min_element
 using namespace std;
+ 
 int main(){
-    boost;
     int t;
     cin>>t;
     while(t--){
     int n;
     cin>>n;
-    int arr[n];
-    set<int>s;
-    for(int i=0;i<n;i++){
-        cin>>arr[i];
-        s.insert(arr[i]);
+    string str;
+    cin>>str;
+    int same=0;
+    for(int i=0;i<n-1;i++){
+        if(str[i]==str[i+1]){
+            same++;
+        }
     }
-    if(s.size()==1){
-        //if set size is 1 means we have all the same elements in the array then its never possible to select two adjacent different numbers and so 
-        //we can't reduce its length at all
-        cout<<n<<endl;
+    cout<<(ceil(same/2.0))<<endl;
     }
-    else{
-        //if atleast 1 diff element is there then always we can reduce its length to 1
-        cout<<1<<endl;
-    }
-    }
-  
 }
-//TC: O(1)
-//SC: O(N)
