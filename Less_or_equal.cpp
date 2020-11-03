@@ -19,7 +19,7 @@ else
     cout<<-1<<endl;
 }
 else if(k==n){
-    //base case k==n because here this comparision arr[k]>arr[k-1] will give index out of boung error
+    //base case k==n because here this comparision arr[k]>arr[k-1] will give index out of bound error
     cout<<arr[n-1]<<endl;
 }
 else{
