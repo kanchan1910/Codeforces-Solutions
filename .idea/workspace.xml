@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c041e79-5720-4975-8b1c-3f0ab12604df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kNhaRmMebEbV9gduCOsIP6mQt9" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Desktop" />
+      <recent name="$APPLICATION_CONFIG_DIR$/Downlaods" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c041e79-5720-4975-8b1c-3f0ab12604df" name="Default Changelist" comment="" />
+      <created>1605547019239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605547019239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="285" width="430" height="514" key="FileChooserDialogImpl" timestamp="1605592795343">
+      <screen x="41" y="0" width="1879" height="1080" />
+    </state>
+    <state x="761" y="285" width="430" height="514" key="FileChooserDialogImpl/41.0.1879.1080@41.0.1879.1080" timestamp="1605592795343" />
+    <state x="477" y="176" width="1007" height="731" key="SettingsEditor" timestamp="1605548012388">
+      <screen x="41" y="0" width="1879" height="1080" />
+    </state>
+    <state x="477" y="176" width="1007" height="731" key="SettingsEditor/41.0.1879.1080@41.0.1879.1080" timestamp="1605548012388" />
+    <state x="626" y="260" width="700" height="530" key="recent.locations.popup" timestamp="1605554130975">
+      <screen x="41" y="0" width="1879" height="1080" />
+    </state>
+    <state x="626" y="260" width="700" height="530" key="recent.locations.popup/41.0.1879.1080@41.0.1879.1080" timestamp="1605554130975" />
+    <state x="643" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1605678384339">
+      <screen x="41" y="0" width="1879" height="1080" />
+    </state>
+    <state x="643" y="239" width="672" height="678" key="search.everywhere.popup/41.0.1879.1080@41.0.1879.1080" timestamp="1605678384339" />
+  </component>
+</project>
